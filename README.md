@@ -98,5 +98,5 @@ GOOGLE_APPLICATION_CREDENTIALS</br>
 Deploy the application:
 
 ```bash
-git push heroku main
+git push heroku master
 ```
