@@ -85,10 +85,10 @@ git commit -am "initial"
 Start by creating this application on Heroku from the command line using the Heroku CLI:
 
 ```bash
-heroku create myappname
+heroku create thisappname
 ```
 
-Note: In above command, replace "myappname" with a unique name on the whole Heroku platform.
+Note: In above command, replace "thisappname" with a unique name on the whole Heroku platform.
 
 On your Heroku dashboard where your application page is shown, click on `Settings` button,
 add the following `Config Vars` and set them with their respective values:</br>
